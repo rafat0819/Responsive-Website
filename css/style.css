@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    line-height: 50px;
+}
+
+#orange{
+    color: #FA804C;
+    text-shadow: 2px 2px 5px rgba(73, 73, 73, 0.6)
+}
+
+#dark-blue{
+    color: #363958;
+    text-shadow: 2px 2px 5px rgba(73, 73, 73, 0.6)
+}
+
+#white{
+    color: white;
+}
+
+nav{
+    background-color: #FFF9F4;
+}
+
+.nav-item{
+    margin-right: 80px;
+}
+
+.jumbotron{
+    background-color: #FFF9F4;
+    padding-bottom: 50px;
+}
+
+.orange-bg{
+    background-color: #FA804C;
+}
+
+.custom-bg{
+    background-color: #F1F1F1;
+}
